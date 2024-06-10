@@ -1,0 +1,271 @@
+.bookAnAppointment,
+.contactUs {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+}
+.contactUs {
+  cursor: pointer;
+}
+.bookAnAppointment {
+  text-decoration: underline;
+  color: inherit;
+}
+.button,
+.items {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.button {
+  border-radius: var(--br-5xs);
+  justify-content: center;
+  padding: var(--padding-sm) var(--padding-5xl);
+  background-image: url(/public/button@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.items {
+  position: absolute;
+  top: 55px;
+  right: 59px;
+  width: 840px;
+  justify-content: flex-end;
+  gap: var(--spacing-m);
+}
+.thehairkingdom {
+  position: absolute;
+  top: 67px;
+  left: 80px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-tan);
+  -webkit-text-stroke: 1px #aa8954;
+}
+.img90121Icon {
+  position: absolute;
+  top: 56px;
+  left: 284px;
+  border-radius: var(--br-145xl-5);
+  width: 51px;
+  height: 52px;
+  object-fit: cover;
+}
+.gallery,
+.home,
+.policy1 {
+  position: absolute;
+  top: 67px;
+  line-height: 150%;
+}
+.gallery {
+  left: 885px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.home,
+.policy1 {
+  left: 757px;
+}
+.home {
+  top: 68px;
+  left: 649px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.navigation {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  height: 164px;
+  overflow: hidden;
+  font-size: var(--body-text-size);
+  font-family: var(--body-text);
+}
+.buttonsIcon {
+  position: absolute;
+  top: 35px;
+  left: 26px;
+  border-radius: var(--br-9xs);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.divider {
+  position: absolute;
+  top: 0.5px;
+  left: 79.5px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1281px;
+  height: 1px;
+}
+.span {
+  font-weight: 500;
+}
+.contactTxt {
+  width: 100%;
+}
+.contact,
+.eMailThehairkingdomofficial,
+.thehairkingdomofficial {
+  position: absolute;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+}
+.contact {
+  top: 1px;
+  left: 74px;
+  font-size: var(--font-size-base);
+  color: var(--color-tan);
+  width: 76px;
+  height: 38px;
+  text-shadow: 1px 0 0#aa8954, 0 1px 0#aa8954, -1px 0 0#aa8954, 0-1px 0#aa8954;
+}
+.eMailThehairkingdomofficial,
+.thehairkingdomofficial {
+  font-weight: 500;
+}
+.thehairkingdomofficial {
+  top: 46px;
+  left: 66px;
+  text-decoration: underline;
+  color: inherit;
+  width: 234px;
+  height: 21px;
+}
+.eMailThehairkingdomofficial {
+  top: 92px;
+  left: 36px;
+  width: 484px;
+  height: 13px;
+}
+.img90261Icon {
+  position: absolute;
+  top: 122px;
+  left: 26px;
+  border-radius: var(--br-34xl);
+  width: 32px;
+  height: 36px;
+  object-fit: cover;
+}
+.div {
+  top: 137px;
+  left: 66px;
+  font-weight: 500;
+  width: 268px;
+  height: 9px;
+}
+.azPrestonHall,
+.div,
+.location {
+  position: absolute;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+}
+.location {
+  top: 14px;
+  left: 572px;
+  font-size: var(--font-size-base);
+  color: var(--color-tan);
+  width: 179px;
+  height: 13px;
+  text-shadow: 1px 0 0#aa8954, 0 1px 0#aa8954, -1px 0 0#aa8954, 0-1px 0#aa8954;
+}
+.azPrestonHall {
+  top: 51px;
+  left: 527px;
+  font-weight: 500;
+  width: 199px;
+  height: 9px;
+}
+.navigationFooter {
+  position: absolute;
+  width: 100%;
+  top: 1856px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-floralwhite);
+  height: 264px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inknut-antiqua);
+}
+.policies {
+  position: absolute;
+  top: 225px;
+  left: 546px;
+  text-decoration: underline;
+  line-height: 110%;
+  color: var(--color-tan);
+  display: inline-block;
+  width: 608px;
+  height: 67px;
+  text-shadow: 1px 0 0#aa8954, 0 1px 0#aa8954, -1px 0 0#aa8954, 0-1px 0#aa8954;
+}
+.yourHairShould {
+  margin-bottom: 0;
+}
+.yourHairShouldBeFreshlyWa {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-66xl);
+}
+.yourHairShouldContainer {
+  top: 468px;
+  left: 121px;
+  font-size: var(--font-size-45xl);
+  text-transform: capitalize;
+  font-family: var(--font-just-another-hand);
+  width: 1204px;
+  height: 95px;
+}
+.deposit,
+.depositUponBookingContainer,
+.yourHairShouldContainer {
+  position: absolute;
+  line-height: 110%;
+  display: inline-block;
+}
+.deposit {
+  top: 964px;
+  left: 546px;
+  text-decoration: underline;
+  color: var(--color-tan);
+  width: 608px;
+  height: 67px;
+  text-shadow: 1px 0 0#8a6d43, 0 1px 0#8a6d43, -1px 0 0#8a6d43, 0-1px 0#8a6d43;
+}
+.depositUponBookingContainer {
+  top: 1171px;
+  left: 118px;
+  font-size: var(--font-size-45xl);
+  text-transform: capitalize;
+  font-family: var(--font-just-another-hand);
+  width: 1204px;
+  height: 95px;
+}
+.policy {
+  width: 100%;
+  position: relative;
+  height: 2062px;
+  overflow-y: auto;
+  background-image: url(/public/policy@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-109xl);
+  color: var(--color-black);
+  font-family: var(--font-julius-sans-one);
+}

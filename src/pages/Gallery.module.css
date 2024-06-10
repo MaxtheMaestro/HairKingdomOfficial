@@ -1,0 +1,426 @@
+.copy {
+  width: 837px;
+  height: 70px;
+}
+.copyWrapper {
+  position: absolute;
+  top: 274px;
+  left: 289px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.theGallery {
+  position: absolute;
+  top: 214px;
+  left: 299px;
+  font-size: var(--font-size-77xl);
+  letter-spacing: -0.02em;
+  font-family: var(--font-julius-sans-one);
+  color: var(--color-tan);
+  text-align: center;
+  display: inline-block;
+  width: 837px;
+  -webkit-text-stroke: 1px #aa8954;
+}
+.c0c0cdfE66e4d1cA00fD095636Icon {
+  position: absolute;
+  top: 364px;
+  left: 28px;
+  border-radius: 12px;
+  width: 398px;
+  height: 486px;
+  object-fit: cover;
+}
+.bookAnAppointment,
+.contactUs {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+}
+.contactUs {
+  cursor: pointer;
+}
+.bookAnAppointment {
+  text-decoration: underline;
+  color: inherit;
+}
+.button,
+.items {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.button {
+  border-radius: var(--br-5xs);
+  justify-content: center;
+  padding: var(--padding-sm) var(--padding-5xl);
+  background-image: url(/public/button1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.items {
+  position: absolute;
+  top: 55px;
+  right: 59px;
+  width: 749px;
+  justify-content: flex-end;
+  gap: var(--spacing-m);
+}
+.home,
+.thehairkingdom {
+  position: absolute;
+  top: 67px;
+  left: 650px;
+  line-height: 150%;
+  font-weight: 500;
+  cursor: pointer;
+}
+.thehairkingdom {
+  left: 80px;
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-burlywood);
+  -webkit-text-stroke: 1px #aa8954;
+}
+.img90121Icon {
+  position: absolute;
+  top: 56px;
+  left: 284px;
+  border-radius: var(--br-145xl-5);
+  width: 51px;
+  height: 52px;
+  object-fit: cover;
+}
+.gallery1,
+.policy {
+  position: absolute;
+  top: 67px;
+  left: 890px;
+  line-height: 150%;
+}
+.policy {
+  left: 773px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.navigation {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  height: 164px;
+  overflow: hidden;
+  font-size: var(--body-text-size);
+  font-family: var(--body-text);
+}
+.buttonsIcon {
+  position: absolute;
+  top: 35px;
+  left: 26px;
+  border-radius: var(--br-9xs);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.divider {
+  position: absolute;
+  top: 0.5px;
+  left: 79.5px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1281px;
+  height: 1px;
+}
+.contact {
+  top: 1px;
+  left: 74px;
+  font-size: var(--font-size-base);
+  color: var(--color-tan);
+  width: 76px;
+  height: 38px;
+  text-shadow: 1px 0 0#aa8954, 0 1px 0#aa8954, -1px 0 0#aa8954, 0-1px 0#aa8954;
+}
+.contact,
+.eMailThehairkingdomofficial,
+.thehairkingdomofficial {
+  position: absolute;
+  line-height: 150%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.thehairkingdomofficial {
+  top: 46px;
+  left: 66px;
+  text-decoration: underline;
+  color: inherit;
+  width: 234px;
+  height: 21px;
+}
+.eMailThehairkingdomofficial {
+  top: 92px;
+  left: 36px;
+  width: 484px;
+  height: 13px;
+}
+.img90261Icon {
+  position: absolute;
+  top: 122px;
+  left: 26px;
+  border-radius: var(--br-34xl);
+  width: 32px;
+  height: 36px;
+  object-fit: cover;
+}
+.div {
+  top: 137px;
+  left: 66px;
+  width: 268px;
+  height: 9px;
+}
+.azPrestonHall,
+.div,
+.location {
+  position: absolute;
+  line-height: 150%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.location {
+  top: 14px;
+  left: 572px;
+  font-size: var(--font-size-base);
+  color: var(--color-tan);
+  width: 179px;
+  height: 13px;
+  text-shadow: 1px 0 0#aa8954, 0 1px 0#aa8954, -1px 0 0#aa8954, 0-1px 0#aa8954;
+}
+.azPrestonHall {
+  top: 51px;
+  left: 527px;
+  width: 199px;
+  height: 9px;
+}
+.navigationFooter {
+  position: absolute;
+  width: 100%;
+  top: 3278px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-floralwhite);
+  height: 264px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inknut-antiqua);
+}
+.db6b2e329d241ce9c9e9daeb22Icon {
+  position: absolute;
+  top: 389px;
+  left: 504px;
+  width: 401px;
+  height: 461px;
+  object-fit: cover;
+}
+.a01e751129348c892d991f4525Icon,
+.d2020adEa2d4358994bE5ad4c5Icon {
+  position: absolute;
+  top: 383px;
+  left: 994px;
+  width: 404px;
+  height: 467px;
+  object-fit: cover;
+}
+.d2020adEa2d4358994bE5ad4c5Icon {
+  top: 976px;
+  left: 38px;
+  width: 398px;
+  height: 412px;
+}
+.ad8ec7E2d04fbeB1721807d7a1Icon,
+.bdbd140674f1bBa9b8ebb20ce4Icon {
+  position: absolute;
+  top: 976px;
+  left: 504px;
+  width: 405px;
+  height: 412px;
+  object-fit: cover;
+}
+.bdbd140674f1bBa9b8ebb20ce4Icon {
+  left: 984px;
+  width: 414px;
+}
+.aee36Fae6457e8a33F6cd3f3fdIcon,
+.fd3c1a4b9196044d07b62211aaIcon {
+  position: absolute;
+  top: 1569px;
+  left: 38px;
+  width: 398px;
+  height: 395px;
+  object-fit: cover;
+}
+.fd3c1a4b9196044d07b62211aaIcon {
+  left: 504px;
+  width: 405px;
+}
+.bobBoho,
+.invisibleLocs,
+.naturalHairCornrow {
+  position: absolute;
+  top: 863px;
+  left: 122px;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  width: 296px;
+  height: 29px;
+}
+.bobBoho,
+.naturalHairCornrow {
+  top: 861px;
+  left: 582px;
+}
+.naturalHairCornrow {
+  left: 984px;
+  font-size: 55px;
+  width: 554px;
+  mix-blend-mode: normal;
+}
+.fulaniFlipBraids {
+  top: 1401px;
+  left: 79px;
+  font-size: var(--font-size-45xl);
+  height: 29px;
+}
+.bohoBraLength,
+.colouredBoho,
+.fulaniFlipBraids,
+.largeKnotless,
+.straightBackCurly {
+  position: absolute;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  width: 296px;
+}
+.colouredBoho {
+  top: 1979px;
+  left: 94px;
+  height: 35px;
+}
+.bohoBraLength,
+.largeKnotless,
+.straightBackCurly {
+  height: 29px;
+}
+.largeKnotless {
+  top: 1400px;
+  left: 572px;
+  font-size: 68px;
+}
+.bohoBraLength,
+.straightBackCurly {
+  top: 1407px;
+  left: 1048px;
+}
+.straightBackCurly {
+  top: 1985px;
+  left: 488px;
+  font-size: var(--font-size-45xl);
+  width: 467px;
+}
+.a181040b25b046aa949cA1fff3Icon,
+.b54bc5aeF42942f797e38ec4b3Icon {
+  position: absolute;
+  top: 1569px;
+  left: 984px;
+  width: 414px;
+  height: 395px;
+  object-fit: cover;
+}
+.b54bc5aeF42942f797e38ec4b3Icon {
+  top: 2143px;
+  left: 34px;
+  width: 402px;
+  height: 399px;
+}
+.ae09b15b29f147a6Ae58Cec610Icon,
+.bb785711D46242e1B1b323652dIcon,
+.d8ddbeb81d15438b84e5Bd9b43Icon {
+  position: absolute;
+  top: 2143px;
+  left: 504px;
+  width: 408px;
+  height: 408px;
+  object-fit: cover;
+}
+.ae09b15b29f147a6Ae58Cec610Icon,
+.d8ddbeb81d15438b84e5Bd9b43Icon {
+  left: 990px;
+}
+.ae09b15b29f147a6Ae58Cec610Icon {
+  top: 2691px;
+  left: 35px;
+  height: 397px;
+}
+.boho,
+.braidedLowPonytail,
+.lemonadeFulani,
+.lemonadeFunali,
+.spiderBraids {
+  position: absolute;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  height: 29px;
+}
+.braidedLowPonytail {
+  top: 1985px;
+  left: 1013px;
+  font-size: var(--font-size-45xl);
+  width: 355px;
+}
+.boho,
+.lemonadeFulani,
+.lemonadeFunali,
+.spiderBraids {
+  top: 2558px;
+  left: 94px;
+  width: 296px;
+}
+.boho,
+.lemonadeFulani,
+.lemonadeFunali {
+  top: 2559px;
+  left: 650px;
+}
+.lemonadeFulani,
+.lemonadeFunali {
+  left: 1064px;
+}
+.lemonadeFunali {
+  top: 3104px;
+  left: 94px;
+  font-size: var(--font-size-45xl);
+}
+.gallery {
+  width: 100%;
+  position: relative;
+  height: 3542px;
+  overflow-y: auto;
+  background-image: url(/public/gallery@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-47xl);
+  color: var(--color-black);
+  font-family: var(--font-kolker-brush);
+}
